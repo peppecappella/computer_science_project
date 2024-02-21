@@ -1,3 +1,3 @@
-# progetto_computer_science_2022
+# computer_science_project
 
 Giuseppe Cappella
