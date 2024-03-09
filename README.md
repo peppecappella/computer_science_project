@@ -1,4 +1,4 @@
-# computer_science_project
+# First Data Science Project
 
 Author: Giuseppe Cappella
 
